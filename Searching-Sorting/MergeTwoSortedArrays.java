@@ -1,4 +1,20 @@
 public class MergeTwoSortedArrays {
+    /**
+     * The main method to demonstrate the merging of two sorted arrays.
+     * 
+     * Example usage:
+     * int[] nums1 = {1, 2, 3, 0, 0, 0};
+     * int[] nums2 = {2, 5, 6};
+     * int m = 3;
+     * int n = 3;
+     * 
+     * merge(nums1, m, nums2, n);
+     * 
+     * This will merge nums2 into nums1 resulting in a single sorted array.
+     * 
+     * Time Complexity: O(m + n) where m is the number of initialized elements in nums1 and n is the number of elements in nums2.
+     * Space Complexity: O(1) as the merging is done in-place.
+     */
     public static void main(String[] args) {
         // Example usage
         int[] nums1 = {1, 2, 3, 0, 0, 0};
