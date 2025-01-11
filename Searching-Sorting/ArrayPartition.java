@@ -1,6 +1,8 @@
+
 public class ArrayPartition {
 
     public static void main(String[] args) {
+        
         int[] array = { 54,6,21,3,-4,-97,67,89,98,104};
         int pivot = 45;
         
