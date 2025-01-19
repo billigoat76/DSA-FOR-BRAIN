@@ -9,7 +9,7 @@ import java.util.*;
      * 4. Use the prefix sum array to place each element from the input array into its
      *    correct position in a result array.
      */
-public class Main {
+public class CountSort {
 
     public static void countSort(int[] arr, int min, int max) {
         // Write your code here

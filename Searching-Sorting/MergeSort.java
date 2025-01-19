@@ -74,7 +74,11 @@ public class MergeSort {
      *
      * @param args command line arguments
      */
-   
+    public static void main(String[] args) {
+        MergeSort sorter = new MergeSort();
+        int[] nums = {5, 2, 9, 1, 5, 6};
+        int[] sorted = sorter.sortArray(nums);
+        for (int num : sorted) {
             System.out.print(num + " ");
         }
     }
