@@ -9,4 +9,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/billigoat76/DSA-FOR-BRAIN/tree/master/0374-guess-number-higher-or-lower) |
+## Array
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/billigoat76/DSA-FOR-BRAIN/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/billigoat76/DSA-FOR-BRAIN/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/billigoat76/DSA-FOR-BRAIN/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/billigoat76/DSA-FOR-BRAIN/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/billigoat76/DSA-FOR-BRAIN/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/billigoat76/DSA-FOR-BRAIN/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
